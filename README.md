@@ -3,7 +3,7 @@ Website to search for movies
 
 ## Steps to run the application:
 1. Go to [github-pages](https://github.com/Haidram/movieland/deployments/activity_log?environment=github-pages)
-2. Click on 'View Deployment'
+2. Click on [View Deployment](https://haidram.github.io/movieland/)
 3. View the results
 
 
